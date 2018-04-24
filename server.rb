@@ -8,7 +8,6 @@ get '/'do
 "Dog : " + aaaaaaaa.my_weight
 end
 
-
 get '/eat' do
  aaaaaaaa.eat
  '먹었음'
