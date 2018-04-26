@@ -13,7 +13,7 @@ class Dog
 
 
  	def eat
- 	@weight = @weight + 0.5
+ 	@weight = @weight + 0.3
  	 #puts "먹는다. 먹고나서 몸무게 : " + @weight.to_s 
  	end
 
